@@ -67,3 +67,19 @@ Türkçe: Ana dil
 İngilizce: Orta Seviye (B1)
 
 Geliştirmeye açık, öğrenmeye aç bir zihin.
+
+| Teknoloji                | Deneyim   |
+| ------------------------ | --------- |
+| PHP (5.x/7.x/8.x)        | 6+ yıl    |
+| Laravel / Codeigniter    | 3 yıl     |
+| HTML / CSS / JavaScript  | 10+ yıl   |
+| ReactJS                  | 3 yıl     |
+| Node.js                  | 1 yıl     |
+| MSSQL / MySQL            | 10+ yıl   |
+| Git / GitHub             | 1+ yıl    |
+| Docker                   | 1 yıl     |
+| REST / SOAP API          | 2+ yıl    |
+| C# (.NET Service)        | 5 yıl     |
+| AWS Cloud                | Başlangıç |
+| CI/CD & DevOps süreçleri | 5 yıl     |
+
