@@ -1,85 +1,104 @@
-🙋‍♂️ Who is Nazif Bilgin?
-Ben kendimi anlatmayı sevmem. Kodlarım konuşur, projelerim anlatır beni.
+🙋‍♂️ Nazif Bilgin | Full Stack Software Developer
 
-Yüksek kaliteli uygulamalar üretmek için ideal süreçleri ve mimarileri düşünmeyi seven, sürdürülebilir ve kolayca genişletilebilir yapılar kurmaya tutkulu bir yazılım geliştiricisiyim. Kod kalitesine ve geliştirme sürecinin akışkanlığına özen gösteririm. Zorluklarla yüzleşmeyi, onları doğrudan ve yalın çözümlerle aşmayı severim. Meraklı bir zihne sahibim, sorular sormaktan ve fikirlerimi paylaşmaktan çekinmem. Her gün bir şeyler öğrenmeye aç, öğrendiklerimi çevremle paylaşmaya istekli biriyim.
+📍 İstanbul | 💬 Turkish / English (B1)  
+📧 nazifbil@gmail.com | 📞 +90 (542) 825 64 87  
+🌐 [linkedin.com/in/nazifbilgin](https://linkedin.com/in/nazifbilgin) | 🖥️ [oneplusdesk.com](https://oneplusdesk.com)
 
-💼 Proje Deneyimlerim
-🔹 ColdFusion & MSSQL ERP Raporlama Araçları:
-HTML, CSS, JavaScript ve Adobe ColdFusion (Java tabanlı) ile MSSQL tabanlı web ERP sistemleri için özel raporlama araçları geliştirdim.
+---
 
-🔹 IT Destek Takip Uygulaması:
-PHP (Laravel), HTML/CSS, JavaScript ve MySQL kullanarak kurumsal IT destek süreçlerini yöneten bir web uygulaması geliştirdim.
+## 🧠 Hakkımda
 
-🔹 IoT Mimarisi Geliştirme:
-AWS üzerinde Node.js, React.js, PHP (Laravel) ve MSSQL teknolojileriyle cihaz takibi ve veri analizi yapan bir IoT platformu inşa ettim.
+> “Kendimi anlatmam, projelerim konuşur.”
 
-🔹 Kullanıcı Kılavuzu Dönüşüm Projesi:
-PHP, MySQL, GitHub CI/CD yapısıyla dokümantasyon süreçlerinin dijital takibini sağlayan bir sistem geliştirdim.
+12 yılı aşkın bir süredir yazılım geliştiriyorum. IoT, ERP, yapay zeka ve otomasyon sistemlerinde proje geliştirdim, yönettim, eğittim. Kod yazarken tek derdim sadece çalışması değil; sürdürülebilirliği, anlaşılabilirliği ve genişletilebilirliği. MVC, Clean Code, OOP, DevOps süreçleri gibi modern yazılım ilkeleri benim çalışma şeklimin omurgası.  
 
-🔹 ERP Veri Entegrasyonu:
-React.js + PHP API ile personel giriş-çıkış entegrasyonlarını sağladım. Veri okuma tarafında C# ile web servis yazdım.
+Yeni teknolojileri denemeye, sistemleri dönüştürmeye ve hayatı kolaylaştırmaya tutkuluyum. Ekip içinde bilgi paylaşmaktan, zorluk çözmekten ve yazılımla insan hayatını daha iyi hâle getirmekten büyük keyif alıyorum.
 
-🔹 Sunucu & Client Donanım/Software İzleme Uygulaması:
-Laravel, Node.js, React.js, Docker ve RESTful API ile geliştirdiğim bu sistem, masaüstü tarafında C# ile yazılmış bir servis aracılığıyla veri topluyor. CI/CD süreçleri ile uçtan uca izlenebilirlik sağlıyorum.
+---
 
-🧠 Teknik Yeteneklerim
-Teknoloji	Deneyim
-PHP (5.x/7.x/8.x)	6+ yıl
-Laravel / Codeigniter	3 yıl
-HTML / CSS / JavaScript	10+ yıl
-ReactJS	3 yıl
-Node.js	1 yıl
-MSSQL / MySQL	10+ yıl
-Git / GitHub	1+ yıl
-Docker	1 yıl
-REST / SOAP API	2+ yıl
-C# (.NET Service)	5 yıl
-AWS Cloud	Başlangıç
-CI/CD & DevOps süreçleri	5 yıl
+## 🔧 Uzmanlık Alanlarım
 
-👔 Deneyim
-Full Stack Web Developer / IT Specialist
-📍 INPAK MACHINE – İstanbul
-🕒 Ağustos 2018 – Hâlen
+- **Backend:** PHP (Laravel), Node.js, C#, ColdFusion
+- **Frontend:** HTML, CSS, JavaScript, React.js, Angular, Flutter (Dart)
+- **Database:** MSSQL, MySQL, PostgreSQL, NoSQL
+- **Infra & Tools:** Docker, Git/GitHub, RestAPI, MQTT, CI/CD, Kubernetes, Ubuntu, IIS, Active Directory
+- **Diğer:** PowerBI, Workcube, ChirpStack, ThingsBoard, AdminLTE
 
-Web ve dahili sistemlerde hem istemci hem de sunucu tarafında geliştirmeler (HTML/CSS/SASS, JavaScript/jQuery/Knockout, C#/SQL/LINQ).
+---
 
-REST ve SOAP API’ler ile B2B platform entegrasyonları.
+## 🚀 Seçili Projeler
 
-SSIS paketleri, veri rutinleri ve SQL job'ları geliştirme ve bakım.
+### [🌍 Yabancı Dil Öğrenme Platformu](https://buradaservisim.com)
+> Laravel, PHP, JavaScript, MySQL  
+📝 Günlük 30 dakika ile dil gelişimini destekleyen bir eğitim platformu. MVC mimaride, dinamik kullanıcı arayüzü ile etkileşimli öğrenme deneyimi sunar.
 
-Güvenlik odaklı kodlama ve CI/CD uygulamaları.
+---
 
-Offshore ve onshore ekiplerle iş birliği ve teknik mentorluk.
+### 🧠 Monitoring Log Sistemi
+> C#, MSSQL/MySQL, Laravel  
+🖥️ Client bilgisayarların CPU, GPU, RAM, HDD ve kurulu uygulamalarını izleyen, verileri toplayıp web arayüzüyle yöneten sistem.
 
-IT süreçlerinde BT güvenliği, ITIL ve dokümantasyon standartlarına uygunluk.
+---
 
-🎓 Eğitim
-Yazılım Mühendisliği (Ön Lisans)
-Abant İzzet Baysal Üniversitesi – Bolu
-📅 2011 – 2013
+### 🔧 Servis Yönetim Sistemi
+> PHP, MySQL, HTML, CSS, JS, AdminLTE  
+🛠️ Satış, depo, satınalma, periyodik servis takibi sağlayan kapsamlı ERP uyumlu sistem.
 
-🌍 Diğer Bilgiler
-Yer değişikliğine açık
+---
 
-Türkçe: Ana dil
+### 🧾 Satış Takip Sistemi
+> C#, MSSQL  
+🏪 Barkod okuyucu ile ürün, müşteri, satın alma ve satış takibi yapan perakende yönetim sistemi.
 
-İngilizce: Orta Seviye (B1)
+---
 
-Geliştirmeye açık, öğrenmeye aç bir zihin.
+## 💼 Son İş Deneyimleri
 
-| Teknoloji                | Deneyim   |
-| ------------------------ | --------- |
-| PHP (5.x/7.x/8.x)        | 6+ yıl    |
-| Laravel / Codeigniter    | 3 yıl     |
-| HTML / CSS / JavaScript  | 10+ yıl   |
-| ReactJS                  | 3 yıl     |
-| Node.js                  | 1 yıl     |
-| MSSQL / MySQL            | 10+ yıl   |
-| Git / GitHub             | 1+ yıl    |
-| Docker                   | 1 yıl     |
-| REST / SOAP API          | 2+ yıl    |
-| C# (.NET Service)        | 5 yıl     |
-| AWS Cloud                | Başlangıç |
-| CI/CD & DevOps süreçleri | 5 yıl     |
+**IOTIO Haberleşme A.Ş.**  
+*Yazılım Geliştirme Uzmanı (06.2024 – 04.2025)*  
+→ ThingsBoard & ChirpStack kurulumu, IoT gateway cihaz yönetimi, dashboard tasarımı, ekip liderliği.
 
+**NSX Bilişim / Birikim Pilleri**  
+*Yazılım Uzmanı (2023 – 2024)*  
+→ Workcube ERP ile iş akışı, veri analizi, dağıtım süreçleri ve teknik çözümleme.
+
+**İnpak Makina A.Ş.**  
+*Yazılım Geliştirme Sorumlusu (2018 – 2023)*  
+→ ERP destek sistemleri, C# servisler, PowerBI, RestAPI, ColdFusion, Docker, Flutter, donanım-yazılım koordinasyonu.
+
+---
+
+## 🎓 Eğitim
+
+- 🎓 **Yönetim Bilişim Sistemleri**, Anadolu Üniversitesi (devam ediyor)  
+- 👨‍💻 **Bilgisayar Programcılığı**, AİBÜ MYO (2010 – 2013)
+
+---
+
+## 🏆 Sertifikalar & Eğitimler
+
+- Git ve GitHub – BTK Akademi  
+- Web Sızma Testlerine Giriş – BTK Akademi  
+- IoT ve Güvenlik Eğitimi – BTK Akademi  
+- API & API Testi – BTK Akademi  
+- Workcube System Admin – Katalizör BT  
+- ETA SQL Programlama – ETA Yazılım
+
+---
+
+## 📚 İlgi Alanlarım
+
+- Yeni şehirler keşfetmek  
+- Sistem mimarisi üzerine kafa yormak  
+- Kullanıcı deneyimini yazılım düzeyinde iyileştirmek  
+- Takım çalışmaları ve bilgi paylaşımı
+
+---
+
+## 📣 Referanslar
+
+Referanslar isteğe bağlı olarak paylaşılabilir.  
+
+---
+
+**📌 GitHub profilime hoş geldiniz. Burada sürdürülebilir kod ve işlevsel çözümler bulacaksınız. Her repo, gerçek ihtiyaçlara yönelik bir cevaptır.**  
