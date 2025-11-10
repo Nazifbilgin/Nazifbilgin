@@ -54,6 +54,10 @@ Yeni teknolojileri denemeye, sistemleri dönüştürmeye ve hayatı kolaylaştı
 
 ## 💼 Son İş Deneyimleri
 
+**MGC SOFTWARE**  
+*Yazılım Geliştirme Uzmanı (2025 – Günümüz)*
+→ PHP, Laravel ve Vue.js ile web geliştirme, e-ticaret projeleri, ERP/CRM entegrasyonları, Docker tabanlı uygulama dağıtımı ve bakım süreçleri.
+
 **IOTIO Haberleşme A.Ş.**  
 *Yazılım Geliştirme Uzmanı (06.2024 – 04.2025)*  
 → ThingsBoard & ChirpStack kurulumu, IoT gateway cihaz yönetimi, dashboard tasarımı, ekip liderliği.
