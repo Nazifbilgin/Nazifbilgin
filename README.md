@@ -19,7 +19,7 @@ Yeni teknolojileri denemeye, sistemleri dönüştürmeye ve hayatı kolaylaştı
 ## 🔧 Uzmanlık Alanlarım
 
 - **Backend:** PHP (Laravel), Node.js, C#, ColdFusion
-- **Frontend:** HTML, CSS, JavaScript, React.js, Angular, Flutter (Dart)
+- **Frontend:** HTML, CSS, JavaScript, React.js, Vue, Flutter (Dart)
 - **Database:** MSSQL, MySQL, PostgreSQL, NoSQL
 - **Infra & Tools:** Docker, Git/GitHub, RestAPI, MQTT, CI/CD, Kubernetes, Ubuntu, IIS, Active Directory
 - **Diğer:** PowerBI, Workcube, ChirpStack, ThingsBoard, AdminLTE
