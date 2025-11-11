@@ -1,4 +1,4 @@
-🙋‍♂️ Nazif Bilgin | Full Stack Software Developer
+🙋‍♂️ Nazif Bilgin | PHP & Laravel Developer | ERP & IoT Integration Specialist | DevOps Enthusiast
 
 📍 İstanbul | 💬 Turkish / English (B1)  
 📧 nazifbil@gmail.com | 📞 +90 (542) 825 64 87  
